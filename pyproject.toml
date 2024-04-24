@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "clim-kadai"
+version = "0.1.0"
+description = ""
+authors = ["matsuda-tkm <matsu20010403@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.4"
+h5py = "^3.11.0"
+matplotlib = "^3.8.4"
+cartopy = "^0.23.0"
+ipykernel = "^6.29.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
