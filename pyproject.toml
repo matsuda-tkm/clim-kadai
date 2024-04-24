@@ -12,6 +12,7 @@ h5py = "^3.11.0"
 matplotlib = "^3.8.4"
 cartopy = "^0.23.0"
 ipykernel = "^6.29.4"
+loguru = "^0.7.2"
 
 
 [build-system]

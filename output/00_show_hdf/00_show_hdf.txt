@@ -1,0 +1,14 @@
+2024-04-24 12:28:20.067 | INFO     | __main__:<module>:30 - Keys:
+2024-04-24 12:28:20.067 | INFO     | __main__:<module>:32 - 	Grid
+2024-04-24 12:28:20.067 | INFO     | __main__:<module>:34 - Groups:
+2024-04-24 12:28:20.067 | INFO     | __main__:<module>:36 - 	Latitude
+2024-04-24 12:28:20.067 | INFO     | __main__:<module>:36 - 	Longitude
+2024-04-24 12:28:20.067 | INFO     | __main__:<module>:36 - 	hourlyPrecipRate
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	satelliteInfoFlag
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	observationTimeFlag
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	hourlyPrecipRateGC
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	gaugeQualityInfo
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	snowProbability
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	reliabilityFlag
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	surfaceType
+2024-04-24 12:28:20.068 | INFO     | __main__:<module>:36 - 	orographicRainFlag
